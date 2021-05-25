@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 대기만성형 개발자 오늘도 꾸준히 성장 중
-<img src="https://img.shields.io/badge/kotlin-Android%20Developer-green?style=flat-square&logo=android">
-**Introduce** -> [Go to Link](https://github.com/kangmin1012/Introduce)
+<img src="https://img.shields.io/badge/Android%20Developer-green?style=flat-square&logo=android"> <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=kotlin&logoColor=white">
+
+🌱 Go to [**Introduce**](https://github.com/kangmin1012/Introduce)
