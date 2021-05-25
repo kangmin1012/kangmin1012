@@ -6,10 +6,9 @@
 🌱 Go to [**Introduce**](https://github.com/kangmin1012/Introduce)
 
 **📗 Library**
----
 - MingSingleClickListener : [link](https://github.com/kangmin1012/MingSingleClickListener)
 
-&nbsp;
+**🧑🏻‍💻 Etc**
 - 📧 Email: kangmin1012@naver.com / minkoo1012@gmail.com
 - 🖋 Blog: [link](https://kangmin1012.tistory.com)
 
