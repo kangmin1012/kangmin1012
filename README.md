@@ -14,5 +14,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangmin1012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmin1012&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
