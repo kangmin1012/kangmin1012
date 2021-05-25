@@ -1,4 +1,4 @@
-### Hi there 👋
+## 😎 강민구(Android Developer)
 
 <!--
 **kangmin1012/kangmin1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 대기만성형 개발자 오늘도 꾸준히 성장 중
+
+**Introduce**
+###### [Go to Link](https://github.com/kangmin1012/Introduce)
