@@ -7,16 +7,17 @@
 
 ### <div align="center">✨ Platform</div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"> 
+<img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"> 
 </div>
 
-### <div align ="center"> 👩🏻‍💻 Introduce </div>
-<div align="center>
-  [more detail](https://github.com/kangmin1012/Introduce)
-</div>
+### <div align ="center">👩🏻‍💻 Introduce</div>
+<p align="center">
+  https://github.com/kangmin1012/Introduce
+</p>
 
-**📗 Library**
-- MingSingleClickListener : [link](https://github.com/kangmin1012/MingSingleClickListener)
+### <div align="center">📗 Library</div>
+
+<p align="center">MingSingleClickListener</p>  
 
 [![kangmin1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmin1012&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangmin1012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
