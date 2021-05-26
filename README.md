@@ -14,9 +14,10 @@
   https://github.com/kangmin1012/Introduce
 </p>
 
-### <div align="center">📗 Library</div>
+### 📗 Library
+- MingSingleClickListener : [more detail](https://github.com/kangmin1012/MingSingleClickListener)
 
-<p align="center">MingSingleClickListener</p>  
+&nbsp;
 
 [![kangmin1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmin1012&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangmin1012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
