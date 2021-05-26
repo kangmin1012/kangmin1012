@@ -17,8 +17,6 @@
 ### 📗 Library
 - MingSingleClickListener : [more detail](https://github.com/kangmin1012/MingSingleClickListener)
 
-&nbsp;
-
 [![kangmin1012's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmin1012&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangmin1012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangmin1012%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=myspace.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
