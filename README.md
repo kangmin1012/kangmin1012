@@ -11,7 +11,7 @@
 
 ### <div align ="center">👩🏻‍💻 Introduce</div>
 <p align="center">
-  https://www.notion.so/f8c8d642b51c46c69d76aad684abd524
+  https://bit.ly/3D8lpz8
 </p>
 
 ### 📗 Library
