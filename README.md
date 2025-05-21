@@ -9,11 +9,6 @@
 <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"> 
 </div>
 
-### <div align ="center">👩🏻‍💻 Introduce</div>
-<p align="center">
-  https://my.surfit.io/w/2105202094
-</p>
-
 ### 📗 Library
 - MingSingleClickListener : [more detail](https://github.com/kangmin1012/MingSingleClickListener)
 
