@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3ddc84&height=200&text=Dev.Ming&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Welcome%20to%20Ming's%20GitHub&descAlignY=50)
 ### <div align="center">🖥 Tech Stack</div>
 <div align="center">
-<img src="https://img.shields.io/badge/Android%20Developer-3ddc84?style=flat-square&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Android%20Developer-3ddc84?style=flat-square&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=kotlin&logoColor=white">
 </div>
 
 ### <div align="center">✨ Platform</div>
